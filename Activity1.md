@@ -12,7 +12,7 @@ To begin, you need to fork the repository.  Any time you are going to work on so
 
     To begin, make sure you are on the correct repository, find the `Fork` button, and press the button to fork this repository to your own account.
 
-    ![Fork the repository](images/Activity1/Image0101.png)
+    ![Fork the repository](images/Activity1/Image0101.png) 1
 
 2. Select the correct account where you want to fork the code.
 
